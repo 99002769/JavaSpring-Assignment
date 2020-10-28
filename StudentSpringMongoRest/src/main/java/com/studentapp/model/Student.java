@@ -20,7 +20,7 @@ public class Student {
 
 
 
-	public Student(Integer studentId, String name, String department, Integer age, Address address) {
+	public Student(Integer studentId, String name, String department, int age, Address address) {
 		super();
 		this.studentId = studentId;
 		this.name = name;
